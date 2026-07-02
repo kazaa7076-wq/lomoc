@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LumoChat</string>
+    <string name="title_activity_main">LumoChat</string>
+    <string name="package_name">com.kazaa.lumochat</string>
+    <string name="custom_url_scheme">com.kazaa.lumochat</string>
+</resources>
